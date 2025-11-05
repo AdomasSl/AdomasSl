@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning SQL, Python and Power BI for data analytics<br>🔭 I’m currently working on small Python tasks which touch on different libraries, functions and fundamentals. In addition to that, I am working on a project where I use SQL and Python with real data<br><br><br>
+🌱 I’m currently learning SQL, Python and Power BI for data analytics<br>🔭 I’m currently working on small Python tasks which touch on different libraries, functions and fundamentals. In addition to that, I am working on a project where I use SQL and Python with real life data!<br><br><br>
 
 
 # 💻 Tech Stack:
